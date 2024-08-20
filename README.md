@@ -68,13 +68,13 @@ Once the development server is running, you can open the app in your browser at 
 ## Demo
 
 ### Home Page
-![Home Page](./public/s1)
+![Home Page](./public/s1.png)
 
 ### Playlists Page
-![Playlists Page](./public/s2)
+![Playlists Page](./public/s2.png)
 
 ### Search Page
-![Search Page](./public/s3)
+![Search Page](./public/s3.png)
 
 ## Project Structure
 
